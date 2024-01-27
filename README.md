@@ -1,25 +1,25 @@
 <!-- TOC -->
-* [Introduction](#introduction)
-* [Assignment](#assignment)
-* [Copy this structure - TODO - remove after initial setup](#copy-this-structure---todo---remove-after-initial-setup)
-* [Folder structure](#folder-structure)
-  * [data](#data)
-    * [input](#input)
-    * [intermediate](#intermediate)
-    * [output](#output)
-  * [documentation](#documentation)
-  * [models](#models)
-  * [notebooks](#notebooks)
-  * [scripts](#scripts)
-  * [Additional files](#additional-files)
-    * [.gitattributes](#gitattributes)
-    * [.gitkeep](#gitkeep)
-    * [.gitignore](#gitignore)
-    * [environment.yml](#environmentyml)
-    * [README.md](#readmemd)
-    * [settings.json](#settingsjson)
-* [Project information - TODO](#project-information---todo)
-* [Resources - TODO](#resources---todo)
+- [Introduction](#introduction)
+- [Assignment](#assignment)
+- [Copy this structure - TODO - remove after initial setup](#copy-this-structure---todo---remove-after-initial-setup)
+- [Folder structure](#folder-structure)
+  - [data](#data)
+    - [input](#input)
+    - [intermediate](#intermediate)
+    - [output](#output)
+  - [documentation](#documentation)
+  - [models](#models)
+  - [notebooks](#notebooks)
+  - [scripts](#scripts)
+  - [Additional files](#additional-files)
+    - [.gitattributes](#gitattributes)
+    - [.gitkeep](#gitkeep)
+    - [.gitignore](#gitignore)
+    - [environment.yml](#environmentyml)
+    - [README.md](#readmemd)
+    - [settings.json](#settingsjson)
+- [Project information - TODO](#project-information---todo)
+- [Resources - TODO](#resources---todo)
 <!-- TOC -->
 
 > "Torture the data, and it will confess to anything" – Ronald Coase
@@ -40,6 +40,8 @@ After copying this structure execute these steps:
 - Execute 'git lfs install' on your local machine in the directory of your project
 - Clean up README.md file and add project specific information
 - Remove and add Table of contents chapters => when using Visual Studio Code, you can use *Markdown All in One*, this plugin will automatically update your table of contents after saving your file
+
+test readme
 
 > [!CAUTION]
 > Do not forget to remove this chapter.
