@@ -1,4 +1,6 @@
 # Git Attributes for a data science project
+# Handle line endings between Windows and Unix systems
+* text=auto
 
 # Large data files
 *.csv filter=lfs diff=lfs merge=lfs -text
