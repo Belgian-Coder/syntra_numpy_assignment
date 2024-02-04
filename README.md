@@ -1,4 +1,3 @@
-<!-- TOC -->
 - [Introduction](#introduction)
 - [Assignment](#assignment)
 - [Copy this structure - TODO - remove after initial setup](#copy-this-structure---todo---remove-after-initial-setup)
@@ -20,8 +19,8 @@
     - [settings.json](#settingsjson)
 - [Project information - TODO](#project-information---todo)
 - [Resources - TODO](#resources---todo)
-<!-- TOC -->
 
+<br />
 > "Torture the data, and it will confess to anything" – Ronald Coase
 
 # Introduction
