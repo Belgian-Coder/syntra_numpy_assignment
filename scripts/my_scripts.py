@@ -39,7 +39,7 @@ def create_path_for_notebook(path):
     return transform_path_crossplatform(os.path.join('..', path))
 
 
-def read_image_and_convert_to_np_array(path):
+def read_image_as_np_array(path):
     """
     Read an image file and convert it to a NumPy array.
 
@@ -55,7 +55,7 @@ def read_image_and_convert_to_np_array(path):
     return plt.imread(path)
 
 
-def convert_np_array_and_show_image_to_plt(np_array):
+def show_np_array_as_plot(np_array):
     """
     Convert a NumPy array representing an image and show it using Matplotlib.
 

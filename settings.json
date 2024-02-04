@@ -3,6 +3,7 @@
     "input-directory": "data/input",
     "intermediate-directory": "data/intermediate",
     "output-directory": "data/output",
-    "assignment_image": "image_raw.png"
+    "assignment_image": "image_raw.png",
+    "my_custom_image": "my_image.png"
   }
 }
